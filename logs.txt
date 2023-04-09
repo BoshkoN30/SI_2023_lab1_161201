@@ -1,0 +1,11 @@
+commit 98e2cf367b640a2256472672b67d8fbd6b83b68b
+Author: Bozhidar Neshkoski <bozhidar.neshkoski@gmail.com>
+Date:   Sun Apr 9 17:36:14 2023 +0200
+
+    Add java class
+
+commit bc6fe02c62a62aff8c782bf7e0c17af85a59e266
+Author: Bozhidar Neshkoski <bozhidar.neshkoski@gmail.com>
+Date:   Sun Apr 9 17:33:16 2023 +0200
+
+    Initial commit
